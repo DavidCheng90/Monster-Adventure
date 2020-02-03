@@ -10,7 +10,7 @@ Text-based RPG game.
 
 4.) Open "Monster_Adventure.exe" application file to begin playing.
 
-(NOTE: If your system does not open the application file due to "unrecognizable file", you must prompt it to "run anyways" to open the file.)
+(NOTE: If your system does not open the application file due to "unrecognizable file", you must prompt it to "run anyway" to open the file.)
 
 ## How to View Source Code
 1.) Click "Clone or download" then click "Download ZIP".
