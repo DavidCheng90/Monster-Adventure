@@ -1,9 +1,8 @@
 # Monster-Adventure
 Text-based RPG game.
-
-
+\n
 ## How to Download and Play
-1.) Click "Clone or download" then click "Download ZIP".
+1.) Click "Clone or download" then click "Download ZIP".\n
 2.) Once downloaded, right-click on zipped folder and select Extract All.
 3.) Open the extracted folder.
 4.) Open "Monster_Adventure.exe" application file to begin playing.
