@@ -1,4 +1,4 @@
-# Monster-Adventure
+# Monster Adventure
 Text-based RPG game.
 
 ## How to Download and Play
