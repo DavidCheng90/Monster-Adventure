@@ -1,4 +1,8 @@
 # Monster-Adventure
 Text-based RPG game.
 
-## Please enjoy.
+## How to Play
+Open "Monster_Adventure.exe" to begin playing.
+
+## How to View Source Code
+Open "Monster_Adventure.sln" to view source code.
